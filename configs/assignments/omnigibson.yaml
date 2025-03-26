@@ -8,7 +8,7 @@ concurrency:
 
 assignments: # List[Assignment] | Assignment
   - agent: # "task": List[str] | str ,  "agent": List[str] | str
-      - gpt-4o-2024-05-13
+      - gpt-4o-mini
     task:
       - omnigibson
 

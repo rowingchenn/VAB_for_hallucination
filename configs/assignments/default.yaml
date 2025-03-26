@@ -6,11 +6,11 @@ concurrency:
     # omnigibson: 4
     minecraft: 4
   agent:
-    gpt-4o-2024-05-13: 4
+    gpt-4o-mini: 4
 
 assignments: # List[Assignment] | Assignment
   - agent: # "task": List[str] | str ,  "agent": List[str] | str
-      - gpt-4o-2024-05-13
+      - gpt-4o-mini
     task:
       # - css
       # - omnigibson
