@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: webarena
+Version: 0.0.0
+Requires-Python: <4,>=3.7
+Provides-Extra: dev
+License-File: LICENSE
