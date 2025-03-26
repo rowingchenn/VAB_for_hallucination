@@ -23,8 +23,10 @@ def no_ssl_verification():
         # verify=False persist beyond the end of this context manager.
         opened_adapters.add(self.get_adapter(url))
 
-        settings = old_merge_environment_settings(self, url, proxies, stream, verify, cert)
-        settings['verify'] = False
+        settings = old_merge_environment_settings(
+            self, url, proxies, stream, verify, cert
+        )
+        settings["verify"] = False
 
         return settings
 
@@ -32,7 +34,7 @@ def no_ssl_verification():
 
     try:
         with warnings.catch_warnings():
-            warnings.simplefilter('ignore', InsecureRequestWarning)
+            warnings.simplefilter("ignore", InsecureRequestWarning)
             yield
     finally:
         requests.Session.merge_environment_settings = old_merge_environment_settings
@@ -108,11 +110,11 @@ class Prompter:
         agent_format: str = "<|agent|>\n{content}\n\n",
         prompt_key: str = "prompt",
         image_key: str = "image",
-        text_context_limit: int = 9776
+        text_context_limit: int = 9776,
     ):
         def prompter(messages: List[Dict]):
             nonlocal prefix, suffix, system_format, user_format, agent_format, prompt_key, image_key, text_context_limit
-            
+
             def text_token_estimation(text: str):
                 token_count = 0
                 text = text.replace("\n\n", "\n").replace("```", "`").replace("##", "#")
@@ -127,7 +129,7 @@ class Prompter:
                             char_count += 1
                     token_count += math.ceil(char_count / 6)
                 return token_count
-            
+
             def item_to_prompt(item: Dict):
                 prompt, images = "", []
                 if item["role"] == "system":
@@ -141,12 +143,14 @@ class Prompter:
                             if content["type"] == "text":
                                 text_str += content["text"]
                             else:
-                                images.append(content["image_url"]["url"].split("file://")[-1])
+                                images.append(
+                                    content["image_url"]["url"].split("file://")[-1]
+                                )
                         prompt += user_format.format(content=text_str)
                 else:
                     prompt += agent_format.format(content=item["content"])
                 return prompt, images
-            
+
             prompt = prefix
             images = []
             for item in messages[:5]:
@@ -155,13 +159,21 @@ class Prompter:
                 images += item_images
             if len(messages) > 5:
                 prompt_tail, images_tail = item_to_prompt(messages[-1])
-                for index in range(len(messages)-2, 4, -2):
+                for index in range(len(messages) - 2, 4, -2):
                     agent_item = messages[index]
                     agent_prompt, agent_images = item_to_prompt(agent_item)
-                    user_item = messages[index-1]
+                    user_item = messages[index - 1]
                     user_prompt, user_images = item_to_prompt(user_item)
-                    if text_token_estimation(prompt + user_prompt + agent_prompt + prompt_tail) > text_context_limit:
-                        prompt_tail = "\n\n** Earlier trajectory has been truncated **\n\n" + prompt_tail
+                    if (
+                        text_token_estimation(
+                            prompt + user_prompt + agent_prompt + prompt_tail
+                        )
+                        > text_context_limit
+                    ):
+                        prompt_tail = (
+                            "\n\n** Earlier trajectory has been truncated **\n\n"
+                            + prompt_tail
+                        )
                         break
                     prompt_tail = user_prompt + agent_prompt + prompt_tail
                     images_tail = user_images + agent_images + images_tail
@@ -170,10 +182,7 @@ class Prompter:
             prompt += suffix
             if len(images) != 1:
                 raise Exception("Only one image is supported")
-            return [
-                {prompt_key: prompt},
-                {image_key: open(images[0], "rb")}
-            ]
+            return [{prompt_key: prompt}, {image_key: open(images[0], "rb")}]
 
         return prompter
 
@@ -190,9 +199,14 @@ class Prompter:
     @staticmethod
     def palm():
         def prompter(messages):
-            return {"instances": [
-                Prompter.role_content_dict("messages", "author", "content", "user", "bot")(messages)
-            ]}
+            return {
+                "instances": [
+                    Prompter.role_content_dict(
+                        "messages", "author", "content", "user", "bot"
+                    )(messages)
+                ]
+            }
+
         return prompter
 
 
@@ -261,7 +275,11 @@ class HTTPAgent(AgentClient):
                     body.update(self._handle_history(history))
                     with no_ssl_verification():
                         resp = requests.post(
-                            self.url, json=body, headers=self.headers, proxies=self.proxies, timeout=180
+                            self.url,
+                            json=body,
+                            headers=self.headers,
+                            proxies=self.proxies,
+                            timeout=180,
                         )
                 else:
                     messages = self._handle_history(history)
@@ -269,7 +287,12 @@ class HTTPAgent(AgentClient):
                     data.update(messages[0])
                     with no_ssl_verification():
                         resp = requests.post(
-                            self.url, data=data, files=messages[1], headers=self.headers, proxies=self.proxies, timeout=180
+                            self.url,
+                            data=data,
+                            files=messages[1],
+                            headers=self.headers,
+                            proxies=self.proxies,
+                            timeout=180,
                         )
                 # print(resp.status_code, resp.text)
                 if resp.status_code != 200:

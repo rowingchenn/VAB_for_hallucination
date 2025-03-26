@@ -1,10 +1,10 @@
 module: src.client.agents.HTTPAgent
 parameters:
   name: <% NAME %>
-  url: https://api.openai.com/v1/completions
+  url: https://api.shubiaobiao.cn/v1/chat/completions
   headers:
     Content-Type: application/json
-    Authorization: Bearer <% PUT-YOUR-OPENAI-KEY-HERE %>
+    Authorization: Bearer sk-zbXhyvwxAkF9bkPEC9Cc8218Fe3a4b86BbFdD21e77340aAa
   body:
     model: <% NAME %>
     temperature: 0
