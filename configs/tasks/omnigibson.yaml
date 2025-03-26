@@ -19,8 +19,10 @@ omnigibson:
       "3": 1
       "4": 1
       "5": 1
-      "6": 1
+      "6": 2
       "7": 1
     data_dir: "data/omnigibson"
     output_dir: "outputs/omnigibson"
     docker_image: "tianjiezhang/vab_omnigibson:latest"
+    container_type: "apptainer"
+    sif_file_path: "/mnt/petrelfs/zhangweichen/vab_omnigibson.sif"
