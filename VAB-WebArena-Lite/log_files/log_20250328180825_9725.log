@@ -1,3 +1,0 @@
-2025-03-28 18:08:35,049 - INFO - [Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmpt5t4bcbx/0.json
-2025-03-28 18:08:35,049 - INFO - [Intent]: What are the top-3 best-selling product in Jan 2023
-2025-03-28 18:08:44,800 - INFO - [OpenAI Error] NotFoundError("Error code: 404 - {'error': {'message': 'Invalid URL (POST /v1/chat/completions/chat/completions)', 'localized_message': '', 'type': 'invalid_request_error', 'param': '', 'code': ''}}")

@@ -1,3 +1,0 @@
-2025-03-26 22:35:05,866 - INFO - [Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmphay8frk4/0.json
-2025-03-26 22:35:05,866 - INFO - [Intent]: What are the top-3 best-selling product in Jan 2023
-2025-03-26 22:40:26,949 - INFO - [OpenAI Error] RateLimitError("Error code: 429 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试 (request id: 2025032713384234659590590491569)', 'localized_message': 'Unknown error', 'type': 'new_api_error', 'param': '', 'code': ' '}}")

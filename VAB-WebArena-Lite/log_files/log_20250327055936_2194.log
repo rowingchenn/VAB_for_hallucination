@@ -1,3 +1,0 @@
-2025-03-27 05:59:46,122 - INFO - [Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmp5v_oy3xu/0.json
-2025-03-27 05:59:46,122 - INFO - [Intent]: What are the top-3 best-selling product in Jan 2023
-2025-03-27 06:05:19,162 - INFO - [OpenAI Error] InternalServerError("Error code: 500 - {'error': {'message': '当前分组上游负载已饱和，请稍后再试      (request id: 2025032721032925016849829165515)', 'localized_message': 'Unknown error', 'type': 'new_api_error', 'param': '', 'code': 'get_channel_failed'}}")

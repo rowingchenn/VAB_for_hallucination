@@ -1,3 +1,0 @@
-2025-03-25 22:42:23,505 - INFO - [Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmppd02eh80/0.json
-2025-03-25 22:42:23,506 - INFO - [Intent]: What are the top-3 best-selling product in Jan 2023
-2025-03-25 22:42:32,899 - INFO - [OpenAI Error] AuthenticationError("Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-Yzyb1***************************************3f14. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}")
