@@ -1,0 +1,3 @@
+2025-03-21 21:32:33,756 - INFO - Create result dir: results/web_lite
+2025-03-21 21:32:33,756 - INFO - Dump config to results/web_lite/config.json
+2025-03-21 21:32:39,092 - INFO - [Unhandled Error] AssertionError()]
