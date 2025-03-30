@@ -4,7 +4,7 @@ result_dir='results_for_hallucination' # TODO: set your result_dir
 provider='openai' # TODO: select from ['openai', 'finetune', ...]
 model='openai_gpt-3.5-turbo' # TODO: assign model name. If `provider == finetune`, choose `finetuned`
 instruction_path='agent/prompts/jsons/p_som_cot_id_actree_3s.json' # e.g., agent/prompts/jsons/p_cot_id_actree_2s.json
-test_config_base_dir='config_files/hallucination_wa/test_hallucination_webarena.json' # e.g., config_files/wa/test_webarena_lite
+test_config_base_dir='config_files/hallucination_wa/test_hallucination_webarena' # e.g., config_files/wa/test_webarena_lite
 temperature=0.0
 
 SERVER='http://111.229.174.217' # TODO: your server address
