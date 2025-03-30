@@ -48,7 +48,7 @@
         },
         "intent": "Invite Beno\u00eet and Abishek as collaborator to my awesome repo",
         "require_reset": false,
-        "eval": { // // 需要修改评估条件，改为agent向user提问具体哪一个repo（可能需要在prompt里明确说明在不确定的时候可以向user提问获得更准确的信息，但是可能这样agent就不产生幻觉了） / 直接把思考过程/action过程喂给llm判断是否产生幻觉（过度自信）但需要考虑喂哪些
+        "eval": {
           "eval_types": [
             "program_html"
           ],

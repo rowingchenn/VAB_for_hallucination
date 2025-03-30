@@ -1,17 +1,18 @@
 #!/bin/bash
 DATASET='webarena' # TODO: select from ['webarena', 'visualwebarena']
-result_dir='' # TODO: set your result_dir
-provider='' # TODO: select from ['openai', 'finetune', ...]
-model='' # TODO: assign model name. If `provider == finetune`, choose `finetuned`
+result_dir='results_for_hallucination' # TODO: set your result_dir
+provider='openai' # TODO: select from ['openai', 'finetune', ...]
+model='openai_gpt-3.5-turbo' # TODO: assign model name. If `provider == finetune`, choose `finetuned`
 instruction_path='agent/prompts/jsons/p_som_cot_id_actree_3s.json' # e.g., agent/prompts/jsons/p_cot_id_actree_2s.json
-test_config_base_dir='config_files/wa/test_webarena_lite' # e.g., config_files/wa/test_webarena_lite
+test_config_base_dir='config_files/hallucination_wa/test_hallucination_webarena.json' # e.g., config_files/wa/test_webarena_lite
 temperature=0.0
 
-SERVER='' # TODO: your server address
-MAP_SERVER='' # TODO: the server address for MAP tasks
-OPENAI_API_KEY='' # TODO: if you test OpenAI APIs
+SERVER='http://111.229.174.217' # TODO: your server address
+MAP_SERVER='http://111.229.174.217:1443' # TODO: the server address for MAP tasks
+OPENAI_API_KEY='sk-zbXhyvwxAkF9bkPEC9Cc8218Fe3a4b86BbFdD21e77340aAa' # TODO: if you test OpenAI APIs
+OPENAI_API_BASE="https://api.shubiaobiao.cn/v1"
 OPENAI_ORGANIZATION=''
-CONDA_ENV_NAME='' # TODO: the name of your conda environment for testing WebArena
+CONDA_ENV_NAME='vab_lite' # TODO: the name of your conda environment for testing WebArena
 
 ENV_VARIABLES="export DATASET=${DATASET}; export SHOPPING='http://${SERVER}:7770';export SHOPPING_ADMIN='http://${SERVER}:7780/admin';export REDDIT='http://${SERVER}:9999';export GITLAB='http://${SERVER}:8023';export MAP='http://${MAP_SERVER}:3000';export WIKIPEDIA='http://${SERVER}:8888/wikipedia_en_all_maxi_2022-05/A/User:The_other_Kiwix_guy/Landing';export HOMEPAGE='http://${SERVER}:4399';export OPENAI_API_KEY=${OPENAI_API_KEY};export OPENAI_ORGANIZATION=${OPENAI_ORGANIZATION}"
 
@@ -75,4 +76,5 @@ run_batch() {
 
 }
 
-run_batch 0 24 48 72 96 120 143 165
+run_batch 0 1 2 3 4 5 6 7
+#run_batch 0 24 48 72 96 120 143 165 # ${args[i-1]} 是 test_start_idx，${args[i]} 是 test_end_idx

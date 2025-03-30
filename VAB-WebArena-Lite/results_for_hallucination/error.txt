@@ -1,0 +1,1128 @@
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/72.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/72.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/72.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/72.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/72.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/72.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/72.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/72.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/72.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/72.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/72.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/72.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/143.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/143.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/120.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/120.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/96.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/96.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/24.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/24.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/48.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/48.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/2.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/2.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/1.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/1.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/3.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/3.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/4.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/4.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/5.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/5.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/6.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/6.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/1.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/1.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/2.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/2.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/3.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/3.json'
+[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
+[Unhandled Error] NotADirectoryError(20, 'Not a directory')
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
+    render_helper = RenderHelper(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
+    with open(config_file, "r") as f:
+NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'

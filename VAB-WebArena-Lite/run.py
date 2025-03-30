@@ -435,10 +435,10 @@ def test(
             out_path = os.path.join(args.result_dir, "actions", f"{task_id}.json")
             actions = []
             
-            os.makedirs(os.path.join(args.result_dir, 'screehshots'), exist_ok=True)
-            if os.path.exists(os.path.join(args.result_dir, 'screehshots', f"{task_id}")):
-                shutil.rmtree(os.path.join(args.result_dir, 'screehshots', f"{task_id}"))
-            os.makedirs(os.path.join(args.result_dir, 'screehshots', f"{task_id}"))
+            os.makedirs(os.path.join(args.result_dir, 'screenshots'), exist_ok=True)
+            if os.path.exists(os.path.join(args.result_dir, 'screenshots', f"{task_id}")):
+                shutil.rmtree(os.path.join(args.result_dir, 'screenshots', f"{task_id}"))
+            os.makedirs(os.path.join(args.result_dir, 'screenshots', f"{task_id}"))
             
             while True:
                 update_action_history(out_path, task_id, actions=actions)
@@ -475,7 +475,7 @@ def test(
                     action, state_info, meta_data, args.render_screenshot
                 )
                 
-                current_screenshot = os.path.join(args.result_dir, 'screehshots', f"{task_id}", f"{len(actions)}.png")
+                current_screenshot = os.path.join(args.result_dir, 'screenshots', f"{task_id}", f"{len(actions)}.png")
                 _ = env.page.viewport_size
                 env.page.screenshot(path="/dev/null")
                 env.page.screenshot(path=current_screenshot)
