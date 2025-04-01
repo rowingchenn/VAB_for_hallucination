@@ -1,0 +1,66 @@
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError
+[Config file]: config_files/wa/test_webarena_lite/0.json
+[Unhandled Error] AssertionError()
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
+    assert os.path.exists(_c["storage_state"])
+AssertionError

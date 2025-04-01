@@ -1,0 +1,13 @@
+{
+    "task_id": 4,
+    "score": -0.1,
+    "actions": [
+        "click [11] where [11]",
+        "type [4] [awesome webagents\n] where [4]",
+        "click [15] where [15]",
+        "click [2] where [2]",
+        "click [12] where [12]",
+        "type [16] [awesome webagents\n] where [16]",
+        "click [18] where [18]"
+    ]
+}
