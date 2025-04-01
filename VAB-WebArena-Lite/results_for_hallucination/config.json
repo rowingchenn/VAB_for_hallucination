@@ -13,7 +13,7 @@
     "instruction_path": "agent/prompts/jsons/p_som_cot_id_actree_3s.json",
     "parsing_failure_th": 3,
     "repeating_action_failure_th": 5,
-    "test_config_base_dir": "config_files/hallucination_wa/test_hallucination_webarena.json",
+    "test_config_base_dir": "config_files/hallucination_wa/test_hallucination_webarena",
     "eval_captioning_model_device": "cpu",
     "eval_captioning_model": "Salesforce/blip2-flan-t5-xl",
     "captioning_model": "Salesforce/blip2-flan-t5-xl",
@@ -27,9 +27,9 @@
     "stop_token": null,
     "max_retry": 1,
     "max_obs_length": 3840,
-    "test_start_idx": 0,
-    "test_end_idx": 1,
-    "result_dir": "results",
+    "test_start_idx": 1,
+    "test_end_idx": 8,
+    "result_dir": "results_for_hallucination",
     "planner_ip": null,
     "render_screenshot": true
 }

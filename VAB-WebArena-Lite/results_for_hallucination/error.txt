@@ -1,126 +1,16 @@
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/0.json
-[Unhandled Error] NotADirectoryError(20, 'Not a directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/0.json'
-[Config file]: config_files/hallucination_wa/0.json
-[Unhandled Error] FileNotFoundError(2, 'No such file or directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'config_files/hallucination_wa/0.json'
-[Config file]: config_files/hallucination_wa/0.json
-[Unhandled Error] FileNotFoundError(2, 'No such file or directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'config_files/hallucination_wa/0.json'
-[Config file]: config_files/hallucination_wa/0.json
-[Unhandled Error] FileNotFoundError(2, 'No such file or directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'config_files/hallucination_wa/0.json'
-[Config file]: config_files/hallucination_wa/0.json
-[Unhandled Error] FileNotFoundError(2, 'No such file or directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'config_files/hallucination_wa/0.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/1.json
-[Unhandled Error] NotADirectoryError(20, 'Not a directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/1.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/6.json
-[Unhandled Error] NotADirectoryError(20, 'Not a directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/6.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/6.json
-[Unhandled Error] NotADirectoryError(20, 'Not a directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/6.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/6.json
-[Unhandled Error] NotADirectoryError(20, 'Not a directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/6.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/6.json
-[Unhandled Error] NotADirectoryError(20, 'Not a directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/6.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena.json/7.json
-[Unhandled Error] NotADirectoryError(20, 'Not a directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-NotADirectoryError: [Errno 20] Not a directory: 'config_files/hallucination_wa/test_hallucination_webarena.json/7.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena/0.json
-[Unhandled Error] FileNotFoundError(2, 'No such file or directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'config_files/hallucination_wa/test_hallucination_webarena/0.json'
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena/1.json
-[Unhandled Error] AssertionError()
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 407, in test
-    assert os.path.exists(_c["storage_state"])
-AssertionError
-[Config file]: config_files/hallucination_wa/test_hallucination_webarena/0.json
-[Unhandled Error] FileNotFoundError(2, 'No such file or directory')
-Traceback (most recent call last):
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 378, in test
-    render_helper = RenderHelper(
-  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/browser_env/helper_functions.py", line 167, in __init__
-    with open(config_file, "r") as f:
-FileNotFoundError: [Errno 2] No such file or directory: 'config_files/hallucination_wa/test_hallucination_webarena/0.json'
-[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmp1z5zesw4/2.json
+[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmpzafu8mwa/2.json
 [Unhandled Error] LookupError("\n**********************************************************************\n  Resource \x1b[93mpunkt\x1b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \x1b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \x1b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \x1b[93mtokenizers/punkt/PY3/english.pickle\x1b[0m\n\n  Searched in:\n    - '/Users/pujiayue/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - ''\n**********************************************************************\n")
 Traceback (most recent call last):
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 535, in test
     score = evaluator(
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 624, in __call__
     cur_score = evaluator(trajectory, config_file, page)
-  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x17fcb44c0>", line 92, in __call__
+  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x174ac1360>", line 92, in __call__
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 433, in __call__
     [
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 434, in <listcomp>
     StringEvaluator.must_include(
-  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x17fcb3490>", line 50, in must_include
+  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x174ac03a0>", line 50, in must_include
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 173, in must_include
     if len(word_tokenize(clean_ref)) == 1:
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 129, in word_tokenize
@@ -157,19 +47,19 @@ LookupError:
     - ''
 **********************************************************************
 
-[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmpz7in_cxx/3.json
+[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmp9g_roq2j/3.json
 [Unhandled Error] LookupError("\n**********************************************************************\n  Resource \x1b[93mpunkt\x1b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \x1b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \x1b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \x1b[93mtokenizers/punkt/PY3/english.pickle\x1b[0m\n\n  Searched in:\n    - '/Users/pujiayue/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - ''\n**********************************************************************\n")
 Traceback (most recent call last):
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 535, in test
     score = evaluator(
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 624, in __call__
     cur_score = evaluator(trajectory, config_file, page)
-  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x17fcb44c0>", line 92, in __call__
+  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x174ac1360>", line 92, in __call__
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 433, in __call__
     [
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 434, in <listcomp>
     StringEvaluator.must_include(
-  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x17fcb3490>", line 50, in must_include
+  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x174ac03a0>", line 50, in must_include
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 173, in must_include
     if len(word_tokenize(clean_ref)) == 1:
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 129, in word_tokenize
@@ -206,19 +96,19 @@ LookupError:
     - ''
 **********************************************************************
 
-[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmptnjlewoj/4.json
+[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmp423lmfi5/4.json
 [Unhandled Error] LookupError("\n**********************************************************************\n  Resource \x1b[93mpunkt\x1b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \x1b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \x1b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \x1b[93mtokenizers/punkt/PY3/english.pickle\x1b[0m\n\n  Searched in:\n    - '/Users/pujiayue/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - ''\n**********************************************************************\n")
 Traceback (most recent call last):
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 535, in test
     score = evaluator(
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 624, in __call__
     cur_score = evaluator(trajectory, config_file, page)
-  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x17fcb44c0>", line 92, in __call__
+  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x174ac1360>", line 92, in __call__
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 433, in __call__
     [
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 434, in <listcomp>
     StringEvaluator.must_include(
-  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x17fcb3490>", line 50, in must_include
+  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x174ac03a0>", line 50, in must_include
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 173, in must_include
     if len(word_tokenize(clean_ref)) == 1:
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 129, in word_tokenize
@@ -255,19 +145,166 @@ LookupError:
     - ''
 **********************************************************************
 
-[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmpviqrk802/5.json
+[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmpnyermcj6/2.json
 [Unhandled Error] LookupError("\n**********************************************************************\n  Resource \x1b[93mpunkt\x1b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \x1b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \x1b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \x1b[93mtokenizers/punkt/PY3/english.pickle\x1b[0m\n\n  Searched in:\n    - '/Users/pujiayue/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - ''\n**********************************************************************\n")
 Traceback (most recent call last):
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 535, in test
     score = evaluator(
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 624, in __call__
     cur_score = evaluator(trajectory, config_file, page)
-  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x17fcb44c0>", line 92, in __call__
+  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x313cbd360>", line 92, in __call__
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 433, in __call__
     [
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 434, in <listcomp>
     StringEvaluator.must_include(
-  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x17fcb3490>", line 50, in must_include
+  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x313cbc3a0>", line 50, in must_include
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 173, in must_include
+    if len(word_tokenize(clean_ref)) == 1:
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 129, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 106, in sent_tokenize
+    tokenizer = load(f"tokenizers/punkt/{language}.pickle")
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 876, in _open
+    return find(path_, path + [""]).open()
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/pujiayue/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmp5pjbqqbr/3.json
+[Unhandled Error] LookupError("\n**********************************************************************\n  Resource \x1b[93mpunkt\x1b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \x1b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \x1b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \x1b[93mtokenizers/punkt/PY3/english.pickle\x1b[0m\n\n  Searched in:\n    - '/Users/pujiayue/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - ''\n**********************************************************************\n")
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 535, in test
+    score = evaluator(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 624, in __call__
+    cur_score = evaluator(trajectory, config_file, page)
+  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x313cbd360>", line 92, in __call__
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 433, in __call__
+    [
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 434, in <listcomp>
+    StringEvaluator.must_include(
+  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x313cbc3a0>", line 50, in must_include
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 173, in must_include
+    if len(word_tokenize(clean_ref)) == 1:
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 129, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 106, in sent_tokenize
+    tokenizer = load(f"tokenizers/punkt/{language}.pickle")
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 876, in _open
+    return find(path_, path + [""]).open()
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/pujiayue/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmp7wobfcfg/4.json
+[Unhandled Error] LookupError("\n**********************************************************************\n  Resource \x1b[93mpunkt\x1b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \x1b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \x1b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \x1b[93mtokenizers/punkt/PY3/english.pickle\x1b[0m\n\n  Searched in:\n    - '/Users/pujiayue/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - ''\n**********************************************************************\n")
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 535, in test
+    score = evaluator(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 624, in __call__
+    cur_score = evaluator(trajectory, config_file, page)
+  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x313cbd360>", line 92, in __call__
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 433, in __call__
+    [
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 434, in <listcomp>
+    StringEvaluator.must_include(
+  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x313cbc3a0>", line 50, in must_include
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 173, in must_include
+    if len(word_tokenize(clean_ref)) == 1:
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 129, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 106, in sent_tokenize
+    tokenizer = load(f"tokenizers/punkt/{language}.pickle")
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 750, in load
+    opened_resource = _open(resource_url)
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 876, in _open
+    return find(path_, path + [""]).open()
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/data.py", line 583, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/pujiayue/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'
+    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+[Config file]: /var/folders/84/j2t6tz1x31l791xl38vtzymw0000gn/T/tmpovcsbf2f/5.json
+[Unhandled Error] LookupError("\n**********************************************************************\n  Resource \x1b[93mpunkt\x1b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \x1b[31m>>> import nltk\n  >>> nltk.download('punkt')\n  \x1b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \x1b[93mtokenizers/punkt/PY3/english.pickle\x1b[0m\n\n  Searched in:\n    - '/Users/pujiayue/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/share/nltk_data'\n    - '/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n    - ''\n**********************************************************************\n")
+Traceback (most recent call last):
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/run.py", line 535, in test
+    score = evaluator(
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 624, in __call__
+    cur_score = evaluator(trajectory, config_file, page)
+  File "<@beartype(evaluation_harness.evaluators.HTMLContentExactEvaluator.__call__) at 0x313cbd360>", line 92, in __call__
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 433, in __call__
+    [
+  File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 434, in <listcomp>
+    StringEvaluator.must_include(
+  File "<@beartype(evaluation_harness.evaluators.StringEvaluator.must_include) at 0x313cbc3a0>", line 50, in must_include
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/evaluation_harness/evaluators.py", line 173, in must_include
     if len(word_tokenize(clean_ref)) == 1:
   File "/Users/pujiayue/Documents/research/llm agent hallucination/VAB_for_hallucination/VAB-WebArena-Lite/venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 129, in word_tokenize
