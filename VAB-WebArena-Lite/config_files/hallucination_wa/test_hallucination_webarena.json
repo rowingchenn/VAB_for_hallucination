@@ -180,51 +180,11 @@
         },
         "intent_template_id": 293
       },
-      {
-        "sites": [
-            "shopping"
-        ],
-        "task_id": 6,
-        "require_login": true,
-        "storage_state": "./.auth/shopping_state.json",
-        "start_url": "http://111.229.174.217:18082",
-        "geolocation": null,
-        "intent_template": "Draft a refund message via their \"contact us\" form for the {{product}} I bought {{time}}. It broke after three days of use. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
-        "instantiation_dict": {
-            "product": "phone screen protector",
-            "time": "March 2023"
-        },
-        "intent": "Draft a refund message via their \"contact us\" form for the phone screen protector I bought March 2023. It broke after three days of use. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
-        "require_reset": false,
-        "eval": {
-            "eval_types": [
-                "program_html"
-            ],
-            "reference_answers": null,
-            "reference_url": "",
-            "program_html": [
-                {
-                    "url": "last",
-                    "locator": "document.querySelector('[title=\"What’s on your mind?\"').value",
-                    "required_contents": {
-                        "fuzzy_match": [
-                            "refund",
-                            "it broke after three days of use",
-                            "000000180",
-                            "12.99"
-                        ]
-                    }
-                }
-            ]
-        },
-        "intent_template_id": 154,
-        "old_task_id": 528
-    },
     {
         "sites": [
             "shopping_admin"
         ],
-        "task_id": 7,
+        "task_id": 6,
         "require_login": true,
         "storage_state": "./.auth/shopping_admin_state.json",
         "start_url": "http://111.229.174.217:18083/admin",
@@ -261,5 +221,482 @@
         },
         "intent_template_id": 241,
         "old_task_id": 768
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 7,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "I'm dissatisfied with the product because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #{{order_id}} and the product SKU. Don't submit yet, I will check.",
+      "instantiation_dict": {
+          "product": "bluetooth speaker",
+          "order_id": "161"
+      },
+      "intent": "I'm dissatisfied with the bluetooth speaker because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #161 and the product SKU. Don't submit yet, I will check.",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match",
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/contact",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "broke after three days of use",
+                          "161",
+                          "B09P7BFL4H"
+                      ]
+                  }
+              }
+          ],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 153,
+      "old_task_id": 654
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 8,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "I'm dissatisfied with the product because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #{{order_id}} and the product SKU. Don't submit yet, I will check.",
+      "instantiation_dict": {
+          "product": "iphone case",
+          "order_id": "180"
+      },
+      "intent": "I'm dissatisfied with the iphone case because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #180 and the product SKU. Don't submit yet, I will check.",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match",
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/contact",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "broke after three days of use",
+                          "180",
+                          "B087QJN9W1"
+                      ]
+                  }
+              }
+          ],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 153,
+      "old_task_id": 655
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 9,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "I'm dissatisfied with the product because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #{{order_id}} and the product SKU. Don't submit yet, I will check.",
+      "instantiation_dict": {
+          "product": "remote controller",
+          "order_id": "180"
+      },
+      "intent": "I'm dissatisfied with the remote controller because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #180 and the product SKU. Don't submit yet, I will check.",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match",
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/contact",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "broke after three days of use",
+                          "180",
+                          "B0041MSF2S"
+                      ]
+                  }
+              }
+          ],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 153,
+      "old_task_id": 656
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 10,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "I'm dissatisfied with the {{product}} because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #{{order_id}} and the product SKU. Don't submit yet, I will check.",
+      "instantiation_dict": {
+          "product": "speaker",
+          "order_id": "148"
+      },
+      "intent": "I'm dissatisfied with the product because it broke after just three days of use. Please report this to the merchant by filling out the \"contact us\" form, stating my dissatisfaction in the \"Reason\" field. Also, include the order number #148 and the product SKU. Don't submit yet, I will check.",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match",
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/contact",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "broke after three days of use",
+                          "148",
+                          "B003FVW3VA"
+                      ]
+                  }
+              }
+          ],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 153,
+      "old_task_id": 657
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 11,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Draft a refund message via their \"contact us\" form for the {{product}} I bought {{time}} which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "instantiation_dict": {
+          "product": "phone screen protector",
+          "time": "March 2023"
+      },
+      "intent": "Draft a refund message via their \"contact us\" form for the phone screen protector I bought March 2023 which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "it broke after three days of use",
+                          "000000180",
+                          "12.99"
+                      ]
+                  }
+              }
+          ]
+      },
+      "intent_template_id": 154,
+      "old_task_id": 528
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 12,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Draft a refund message via their \"contact us\" form for the {{product}} I bought {{time}} which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "instantiation_dict": {
+          "product": "bluetooth speaker",
+          "time": "Feb 2023"
+      },
+      "intent": "Draft a refund message via their \"contact us\" form for the bluetooth speaker I bought Feb 2023 which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "it broke after three days of use",
+                          "000000180",
+                          "169.95"
+                      ]
+                  }
+              }
+          ]
+      },
+      "intent_template_id": 154,
+      "old_task_id": 529
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 13,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Draft a refund message via their \"contact us\" form for the {{product}} I bought {{time}} which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "instantiation_dict": {
+          "product": "kitchen organizer",
+          "time": "around Feb 2023"
+      },
+      "intent": "Draft a refund message via their \"contact us\" form for the kitchen organizer I bought around Feb 2023 which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "it broke after three days of use",
+                          "000000180",
+                          "68.88"
+                      ]
+                  }
+              }
+          ]
+      },
+      "intent_template_id": 154,
+      "old_task_id": 530
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 14,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Draft a refund message via their \"contact us\" form for the {{product}} I bought {{time}} which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "instantiation_dict": {
+          "product": "phone case",
+          "time": "March 2023"
+      },
+      "intent": "Draft a refund message via their \"contact us\" form for the phone case I bought March 2023 which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "it broke after three days of use",
+                          "000000180",
+                          "$12.99"
+                      ]
+                  }
+              }
+          ]
+      },
+      "intent_template_id": 154,
+      "old_task_id": 531
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 15,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Draft a refund message via their \"contact us\" form for the {{product}} I bought {{time}} which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "instantiation_dict": {
+          "product": "PS3 remote controller",
+          "time": "early 2023"
+      },
+      "intent": "Draft a refund message via their \"contact us\" form for the PS3 remote controller I bought early 2023 which broke after three days of use and state my dissatisfaction in the “Reason” field. The shop requires the order id, the reason and the amount to refund in the message. Don't submit yet",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "program_html"
+          ],
+          "reference_answers": null,
+          "reference_url": "",
+          "program_html": [
+              {
+                  "url": "last",
+                  "locator": "document.querySelector('[title=\"What\u2019s on your mind?\"').value",
+                  "required_contents": {
+                      "fuzzy_match": [
+                          "refund",
+                          "it broke after three days of use",
+                          "000000180",
+                          "1.63"
+                      ]
+                  }
+              }
+          ]
+      },
+      "intent_template_id": 154,
+      "old_task_id": 532
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 16,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Look up the most recent models of XBox controllers released between 2020-2021",
+      "instantiation_dict": {},
+      "intent": "Look up the most recent models of XBox controllers released between 2020-2021",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/microsoft-xbox-controller-carbon-black-for-series-x-series-s-xbox-one-windows-10-android-ios-bundled-with-dual-port-charging-dock-xbox-controller-skin-voucher-premgear-cloth.html",
+          "program_html": [],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 210,
+      "old_task_id": 283
+    },
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 17,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Show the least expensive {{product}} with a minimum storage capacity of {{min_storage}}.",
+      "instantiation_dict": {
+          "product": "shoe storage",
+          "min_storage": "12 pairs"
+      },
+      "intent": "Show the least expensive shoe storage with a minimum storage capacity of 12 pairs.",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/onlyeasy-over-the-door-shoe-storage-organizer-hanging-shoe-rack-holder-with-24-large-fabric-pockets-22-1-x-61-4-herringbone-grey-mxrodsb1p.html",
+          "program_html": [],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 207,
+      "old_task_id": 284
+    },    
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 18,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Show the least expensive {{product}} with a minimum storage capacity of {{min_storage}}.",
+      "instantiation_dict": {
+          "product": "switch card holder",
+          "min_storage": "15 cards"
+      },
+      "intent": "Show the least expensive switch card holder with a minimum storage capacity of 15 cards.",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/game-card-holder-storage-case-for-nintendo-switch-games-or-ps-vita-game-case-or-sd-memory-cards-black.html",
+          "program_html": [],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 207,
+      "old_task_id": 285
+    }, 
+    {
+      "sites": [
+          "shopping"
+      ],
+      "task_id": 19,
+      "require_login": true,
+      "storage_state": "./.auth/shopping_state.json",
+      "start_url": "http://111.229.174.217:18082",
+      "geolocation": null,
+      "intent_template": "Show the least expensive {{product}} with a minimum storage capacity of {{min_storage}}.",
+      "instantiation_dict": {
+          "product": "ssd hard drive",
+          "min_storage": "15 cards"
+      },
+      "intent": "Show the least expensive ssd hard drive with a minimum storage capacity of 15 1TB.",
+      "require_reset": false,
+      "eval": {
+          "eval_types": [
+              "url_match"
+          ],
+          "reference_answers": null,
+          "reference_url": "http://111.229.174.217:18082/external-hard-drive-2tb-ultra-thin-external-hard-drive-2000gb-ultra-high-speed-portable-3-1-type-c-storage-drive-compatible-with-pc-laptop-and-mac-2tb-a1.html",
+          "program_html": [],
+          "url_note": "GOLD in PRED"
+      },
+      "intent_template_id": 207,
+      "old_task_id": 286
     }
 ]

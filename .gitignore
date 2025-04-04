@@ -28,3 +28,4 @@ src/server/tasks/minecraft/vab_minecraft_src/jarvis/global_configs/envs/*
 !src/server/tasks/minecraft/vab_minecraft_src/jarvis/global_configs/envs/jarvis.yaml
 vab_omnigibson_latest.sif
 VAB-WebArena-Lite/webarena.egg-info
+VAB-WebArena-Lite/log_files

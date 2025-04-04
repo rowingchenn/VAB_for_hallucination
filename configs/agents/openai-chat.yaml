@@ -1,6 +1,6 @@
 module: src.client.agents.HTTPAgent
 parameters:
-  url: https://api.shubiaobiao.cn/v1/chat/completions
+  url: https://api.shubiaobiao.cn/v1/
   headers:
     Content-Type: application/json
     Authorization: Bearer sk-zbXhyvwxAkF9bkPEC9Cc8218Fe3a4b86BbFdD21e77340aAa
